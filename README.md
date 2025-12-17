@@ -1,6 +1,6 @@
 ## Olá eu sou o João Cabrera, seja bem-vindo! 👋
 
-Possuo sólidos conhecimentos em Dart, Java, Kotlin e TypeScript complementados por experiência prática com os frameworks Flutter, React, Quarkus e Nest. Minhas habilidades técnicas são aplicadas na criação de aplicações de alto valor e desempenho. Atualmente, estou trabalhando contribuindo para uma equipe FullStack, desenvolvendo desde aplicativos móveis até APIs. Seguimos padrões de arquitetura, como Clean Architecture e Microsserviços, e adotamos princípios de design SOLID para garantir a qualidade do código.
+Desenvolvedor de Software com 3 anos de experiência, especializado na criação de soluções robustas e eficientes, com foco tanto no desenvolvimento mobile quanto no backend com Java. Atuo em projetos de transformação digital, com sólida expertise em Flutter, Dart, Kotlin, Java, Spring Boot, Quarkus, Firebase, Oracle, MySQL e APIs RESTful.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
